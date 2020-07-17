@@ -6,8 +6,6 @@
 	"version": "1.0.0",
 	"permissions": [
 		"tabs",
-		"https://*/*",
-		"http://*/*",
 		"activeTab"
 	],
 	"content_security_policy": "script-src 'self'; object-src 'self'",
